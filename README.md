@@ -4,7 +4,7 @@
 (https://github.com/hamy2409/-/blob/main/Сравнение%20веб-серверов%20по%20показателям.docx)
 
 **Динамика популярности по России**
-(https://github.com/hamy2409/01/blob/main/2024-03-21_18-51-36.png)
+![Image alt](https://github.com/hamy2409/01/blob/main/2024-03-21_18-51-36.png)
 
 **Динамика популярности по всему миру**
 
