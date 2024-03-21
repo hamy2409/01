@@ -12,6 +12,7 @@
 
 **Динамика популярности по России**
 ![Image alt](https://github.com/hamy2409/01/blob/main/2024-03-21_18-51-36.png)
+![Image alt](https://github.com/hamy2409/01/blob/main/2024-03-21_20-46-10.png)
 
 **Динамика популярности по всему миру**
 ![Image alt](https://github.com/hamy2409/01/blob/main/2024-03-21_18-53-15.png)
