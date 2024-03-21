@@ -11,6 +11,7 @@
 | Операционные системы  | UNIX like, Windows                                | UNIX like, Windows                                                                | Windows NT                                                                    |
 
 **Динамика популярности по России**
+
 ![Image alt](https://github.com/hamy2409/01/blob/main/2024-03-21_18-51-36.png)
 ![Image alt](https://github.com/hamy2409/01/blob/main/2024-03-21_21-13-43.png)
 ![Image alt](https://github.com/hamy2409/01/blob/main/2024-03-21_21-16-28.png)
@@ -24,6 +25,7 @@
 В целом, популярность Nginx в России объясняется его российским происхождением, техническими преимуществами и поддержкой со стороны сообщества и крупных компаний.
 
 **Динамика популярности по всему миру**
+
 ![Image alt](https://github.com/hamy2409/01/blob/main/2024-03-21_18-53-15.png)
 ![Image alt](https://github.com/hamy2409/01/blob/main/2024-03-21_21-23-51.png)
 ![Image alt](https://github.com/hamy2409/01/blob/main/2024-03-21_21-25-59.png)
