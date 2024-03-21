@@ -12,7 +12,6 @@
 
 **Динамика популярности по России**
 ![Image alt](https://github.com/hamy2409/01/blob/main/2024-03-21_18-51-36.png)
-<script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/3620_RC01/embed_loader.js"></script> <script type="text/javascript"> trends.embed.renderExploreWidget("GEO_MAP", {"comparisonItem":[{"keyword":"/m/0_h2","geo":"RU","time":"today 12-m"},{"keyword":"/m/02qft91","geo":"RU","time":"today 12-m"},{"keyword":"/m/02l0s7r","geo":"RU","time":"today 12-m"}],"category":0,"property":""}, {"exploreQuery":"geo=RU&q=%2Fm%2F0_h2,%2Fm%2F02qft91,%2Fm%2F02l0s7r&hl=ru&date=today 12-m,today 12-m,today 12-m","guestPath":"https://trends.google.ru:443/trends/embed/"}); </script>
 
 **Динамика популярности по всему миру**
 ![Image alt](https://github.com/hamy2409/01/blob/main/2024-03-21_18-53-15.png)
